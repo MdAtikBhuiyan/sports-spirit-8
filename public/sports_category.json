@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "sports_title": "football",
+        "description": "Football is a popular team sport that involves kicking a ball into the opposing team's goal.",
+        "img": "https://i.ibb.co/Qr9Ntyy/football-bg.jpg"
+    },
+    {
+        "id": 2,
+        "sports_title": "cricket",
+        "description": "Cricket is a bat-and-ball game played between two teams, usually with eleven players on each side.",
+        "img": "https://i.ibb.co/s3zQLhM/cricket-1.jpg"
+    },
+    {
+        "id": 3,
+        "sports_title": "badminton",
+        "description": "Badminton is a racquet sport played by either two or four players, who take turns hitting a shuttlecock over a net.",
+        "img": "https://i.ibb.co/NmC56zS/badminton-bg.jpg"
+    },
+    {
+        "id": 4,
+        "sports_title": "basketball",
+        "description": "Basketball is a fast-paced team sport in which two teams of five players each compete to score points by shooting a ball through the opponent's hoop.",
+        "img": "https://i.ibb.co/6v5bptB/basketball-bg.jpg"
+    }
+]

@@ -1,0 +1,55 @@
+/* google font import */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+/* tailwind css add */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* font family */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: rgb(2 2 0);
+}
+
+/* navbar */
+.navbar li a {
+  border-bottom: 2px solid transparent;
+}
+
+.navbar li a:hover {
+  color: #FBBD23;
+}
+
+.navbar li .active {
+  color: #FBBD23;
+  border-color: #FBBD23;
+  font-weight: bold;
+}
+
+/* slider */
+.swiper-button-next,
+.swiper-button-prev {
+  position: absolute;
+  top: 90% !important;
+  background: rgb(248, 245, 245);
+  width: 40px !important;
+  height: 40px !important;
+  border-radius: 100%;
+}
+
+.swiper-button-next {
+  left: 10% !important;
+  margin-left: 30px;
+}
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  font-size: 14px !important;
+  color: black !important;
+  font-weight: bold !important;
+}
+
+.swiper-slide-active img {
+  border: 2px solid #FBBD23 !important;
+}

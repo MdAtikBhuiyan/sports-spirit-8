@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "service_name": "Sports Venue",
+        "image": "https://i.ibb.co/VN9xXG6/service-1-2.jpg",
+        "price": 5000,
+        "description": "Rent a spacious and well-equipped sports venue for your event. Our venues are suitable for various sports, from soccer to basketball, and include amenities like seating, lighting, and changing rooms."
+    },
+    {
+        "id": 2,
+        "service_name": "Sporting Equipment",
+        "image": "https://i.ibb.co/t8sXtMv/service-2.jpg",
+        "price": 1000,
+        "description": "Get access to a wide range of sporting equipment, including balls, nets, and protective gear. Ensure that your event participants have the best gear to enjoy their sports activities."
+    },
+    {
+        "id": 3,
+        "service_name": "Referees",
+        "image": "https://i.ibb.co/6wm6NCQ/service-3.jpg",
+        "price": 800,
+        "description": "Hire experienced referees to officiate your sports event. Our certified referees will ensure fair play and rule enforcement throughout the competition."
+    },
+    {
+        "id": 4,
+        "service_name": "Sound System",
+        "image": "https://i.ibb.co/kHdKGZh/service-4.jpg",
+        "price": 1500,
+        "description": "Enhance the atmosphere of your sports event with a high-quality sound system. From announcements to music, our sound system will keep the crowd engaged and informed."
+    },
+    {
+        "id": 5,
+        "service_name": "Media Coverage",
+        "image": "https://i.ibb.co/37Gv5z9/service-5.jpg",
+        "price": 2500,
+        "description": "Capture the excitement of your sports event with professional media coverage. Our photographers and videographers will document every thrilling moment for your audience and sponsors."
+    },
+    {
+        "id": 6,
+        "service_name": "Volunteers & Medical Services",
+        "image": "https://i.ibb.co/k1T5wbv/service-6.jpg",
+        "price": 2000,
+        "description": "Ensure the safety and well-being of your participants with our professional medical services and dedicated volunteers. Our trained medical staff will be on-site to handle any injuries or emergencies during your sports event, and our volunteers will assist with various tasks, including organizing, crowd control, and providing assistance."
+    }
+]
